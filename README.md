@@ -12,7 +12,7 @@ These extensions help me with the management of users, groups and the setup of t
 
 ### Docker
 
-I try to run everything in Docker containers for convenience and I've installed Portainer as a frontend for easy management. I try to deploy every service or group of services in a stack with Docker-Dompose, to keep everything nice and linked together. All the YAML configuration files for the stacks can be found in this repo.
+I try to run everything in Docker containers for convenience and I've installed Portainer as a frontend for easy management. I try to deploy every service or group of services in a stack with Docker-Compose, to keep everything nice and linked together. All the YAML configuration files for the stacks can be found in this repo.
 
 ## Applications
 
