@@ -29,6 +29,8 @@ Below you can find all applications I run, all with their seperate documentation
 - Cockpit (see Fundamentals>Basics) 
 - Portainer (see Fundamentals>Docker)
 - [Nginx Proxy Manager](docs/nginxproxymanager.md)
+- [DuckDNS](docs/duckdns.md)
+- [Wireguard](docs/wireguard.md)
 
 ### Media
 
@@ -39,3 +41,8 @@ Below you can find all applications I run, all with their seperate documentation
 
 - [Prometheus](docs/prometheus.md)
 - [Grafana](docs/grafana.md)
+
+### Other
+
+- [Minecraft server](docs/minecraft.md)
+- [Homer](docs/homer.md)
