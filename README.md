@@ -16,4 +16,20 @@ I try to run everything in Docker containers for convenience and I've installed 
 
 ## Applications
 
-WIP
+Below you can find all applications I run, all with their seperate documentation.
+
+### System
+
+- Cockpit (see Fundamentals>Basics) 
+- Portainer (see Fundamentals>Docker)
+- [Nginx Proxy Manager](docs/nginxproxymanager.md)
+
+### Media
+
+- [Deluge](docs/deluge.md)
+- [Jellyfin](docs/jellyfin.md)
+
+### Monitoring
+
+- [Prometheus](docs/prometheus.md)
+- [Grafana](docs/grafana.md)
