@@ -1,0 +1,17 @@
+services:
+  deluge:
+    image: lscr.io/linuxserver/deluge:latest
+    container_name: deluge
+    restart: unless-stopped
+    ports:
+      - 8888:8112
+      - 6881:6881
+      - 6881:6881/udp
+      - 58846:58846
+    environment:
+      - PUID=1000
+      - PGID=100
+      - TZ=Europe/Brussels
+    volumes:
+      - /opt/docker/deluge:/config
+      - /data:/data
