@@ -8,7 +8,7 @@
 
 This system runs on Fedora 41 Server, which means it automatically comes with Cockpit installed. Cockpit is a web interface for system administration.
 I've added some extensions to Cockpit, namely [cockpit-file-sharing](https://github.com/45Drives/cockpit-file-sharing) and [cockpit-identities](https://github.com/45Drives/cockpit-identities).
-These extensions help me with the management of users, groups and the setup of the SMB shares. More on that later.
+These extensions help me with the management of users, groups and the setup of the SMB shares. More on that later. For a home panel I use [homer](https://github.com/bastienwirtz/homer).
 
 ### Docker
 
@@ -45,4 +45,3 @@ Below you can find all applications I run, all with their seperate documentation
 ### Other
 
 - [Minecraft server](docs/minecraft.md)
-- [Homer](docs/homer.md)
