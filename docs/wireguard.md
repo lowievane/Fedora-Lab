@@ -2,4 +2,4 @@
 
 > [Docker Compose file](../stacks/vpn.yaml)
 
-Wireguard is my VPN protocol of choice and I use this to remote into my private network from the outside world.
+Wireguard is my VPN protocol of choice and I use this to remote into my private network from the outside world, since this whole server is closed of to the outside.
